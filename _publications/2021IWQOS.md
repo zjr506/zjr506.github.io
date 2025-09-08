@@ -1,5 +1,5 @@
 ---
-title: "A novel proof-of-reputation consensus for storage allocation in edge blockchain systems"
+title: "A Novel Proof-of-Reputation Consensus for Storage Allocation in Edge Blockchain Systems"
 collection: publications
 category: conferences
 permalink: 'https://ieeexplore.ieee.org/abstract/document/9521348/'

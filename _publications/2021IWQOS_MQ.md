@@ -1,5 +1,5 @@
 ---
-title: "Accelerating transactions relay in blockchain networks via reputation"
+title: "Accelerating Transactions Relay in Blockchain Networks via Reputation"
 collection: publications
 category: conferences
 permalink: 'https://ieeexplore.ieee.org/abstract/document/9521324/'
