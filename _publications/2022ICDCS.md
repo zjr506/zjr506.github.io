@@ -1,8 +1,8 @@
 ---
-title: "ITF: A Blockchain System with Incentivized Transaction Forwarding"
+title: "[ITF: A Blockchain System with Incentivized Transaction Forwarding](https://ieeexplore.ieee.org/abstract/document/9912284)"
 collection: publications
 category: conferences
-permalink: 'https://ieeexplore.ieee.org/abstract/document/9912284'
+permalink: '2022ICDCS'
 date: 2022-07-10
 author: '<b>Jiarui Zhang</b>, Yaodong Huang'
 venue: '2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)'

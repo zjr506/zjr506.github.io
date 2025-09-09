@@ -1,8 +1,8 @@
 ---
-title: "A Novel Blockchain-based System for Service Quality Improvement in Multi-Tenant O-RANs"
+title: "[A Novel Blockchain-based System for Service Quality Improvement in Multi-Tenant O-RANs](https://ieeexplore.ieee.org/abstract/document/10901767/)"
 collection: publications
 category: conferences
-permalink: 'https://ieeexplore.ieee.org/abstract/document/10901767/'
+permalink: '2024GLOBE'
 date: 2024-12-08
 author: '<b>Jiarui Zhang</b>, Xiaojun Shang, Yiming Zeng, Yuanyuan Yang'
 venue: 'GLOBECOM 2024-2024 IEEE Global Communications Conference'
