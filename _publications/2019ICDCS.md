@@ -1,5 +1,5 @@
 ---
-title: "Resource Allocation and Consensus on Edge Blockchain in Pervasive Edge Computing Environments"
+title: "[Resource Allocation and Consensus on Edge Blockchain in Pervasive Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/8884875)"
 collection: publications
 category: conferences
 permalink: 'https://ieeexplore.ieee.org/abstract/document/8884875'
