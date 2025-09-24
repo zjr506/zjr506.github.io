@@ -13,6 +13,11 @@ Dec. 2018 -- Present
 
 Stony Brook University ACM-ICPC Team
 ======
+
+Set problems for selection contests and training. 
+
+Gave lectures about algorithms, arranged the schedule of daily training, and analyzed the team's performance.
+
 One of the creators of [SBU Compprog](https://www3.cs.stonybrook.edu/~compprog/).
 
 As the best result in SBU history, the 2020 team ranked 3rd in the [2020 Greater New York Regional](https://www3.cs.stonybrook.edu/~compprog/pages/20210413.html), and the 2023 team ranked 19th in the [2023 North American Championship](https://www3.cs.stonybrook.edu/~compprog/pages/nacRes2023.html). 
