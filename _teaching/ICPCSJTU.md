@@ -2,7 +2,7 @@
 title: "Shanghai Jiao Tong University ACM-ICPC Team"
 collection: teaching
 type: "Shanghai Jiao Tong University"
-permalink: /teaching/ICPCSBU
+permalink: /teaching/ICPCSJTU
 venue: "Assistant Coach"
 date: 2016-06-15
 location: "Shanghai Jiao Tong University"
