@@ -1,7 +1,7 @@
 ---
 title: "Stony Brook University ACM-ICPC Team"
 collection: teaching
-type: "Undergraduate course, Stony Brook University"
+type: "Stony Brook University"
 permalink: /teaching/ICPCSBU
 venue: "Assistant Coach"
 date: 2018-12-15
