@@ -13,5 +13,6 @@ I am on the academic/industrial job market this year (2025-26). Please don't hes
 
 News
 ======
+- 05-2026 One paper is accepted by IEEE ICDCS.
 - 09-2025 One paper is accepted by IEEE Transactions on Networking.
 - 09-2025 The website is online!
