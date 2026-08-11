@@ -1,5 +1,5 @@
 ---
-title: "[A Novel Reputation-based Sharding Blockchain System in Edge Sensor Networks](http://zjr506.github.io/files/2025ICDCS.pdf)"
+title: "[A Novel Reputation-based Sharding Blockchain System in Edge Sensor Networks](https://ieeexplore.ieee.org/abstract/document/11183827)"
 collection: publications
 category: conferences
 permalink: '2025ICDCS'
